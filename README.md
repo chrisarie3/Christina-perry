@@ -11,3 +11,4 @@ I am a student at Richland High School interested in technology and computer sci
 
 ## Career Goals
 I want to pursue a career in technology.
+
